@@ -2,6 +2,8 @@ const addDivBtn=document.getElementById('addDivBtn');
 const addPBtn=document.getElementById('addPBtn');
 const addSpanBtn=document.getElementById('addSpanBtn');
 const container=document.getElementById("container");
+const container2=document.getElementById("container_2");
+const addPBtn2=document.getElementById("addPBtn2");
 
 
 //function to add div
@@ -29,3 +31,11 @@ function addSpan(){
     container.appendChild(newSpan);
 }
 addSpanBtn.addEventListener('click',addSpan);
+
+//function to add another paragraph inside container2
+function addParagraph2(){
+    const addParagraph2InaDiv=document.createElement('p');
+    addParagraph2InaDiv.textContent="It's another paragraph";
+    container2.appendChild(addParagraph2InaDiv);
+}
+addPBtn2.addEventListener('click',addParagraph2);

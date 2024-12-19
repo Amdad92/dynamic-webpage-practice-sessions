@@ -1,0 +1,66 @@
+বেসিক সেশন (১-১০): বেসিক ডায়নামিক অপারেশন
+1.	HTML Element Add করা
+(যেমন: <div>, <p>, <span>)
+2.	Text & Attributes Change করা
+(innerText, innerHTML, setAttribute)
+3.	Lists (UL/OL) Dynamically Add করা
+(লিস্টের নতুন li যোগ করা)
+4.	Input Field থেকে ডেটা নেয়া এবং দেখানো
+(যেমন: ইউজারের ইনপুট নিয়ে পেজে দেখানো)
+5.	Element Delete করা
+(নতুন এড করা এলিমেন্ট ডিলিট করা)
+6.	Events ব্যবহারের কৌশল
+(যেমন: onClick, onChange)
+7.	CSS Class Dynamically Add করা
+(classList.add, classList.remove)
+8.	Element Hide & Show করা
+(style.display ব্যবহার)
+9.	Dynamic Style পরিবর্তন
+(যেমন: রঙ বা সাইজ পরিবর্তন করা)
+10.	Event Delegation শেখা
+(Parent element দিয়ে child elements handle করা)
+________________________________________
+ইন্টারমিডিয়েট সেশন (১১-২০): ডায়নামিক ডেটা ম্যানেজমেন্ট
+11.	Dynamic Table তৈরি
+(rows এবং columns অ্যাড করা)
+12.	Modal Pop-up তৈরি
+(ক্লিক করলে পপআপ দেখানো)
+13.	Dropdown Dynamic Add করা
+(নতুন অপশন অ্যাড এবং রিমুভ)
+14.	Todo List Project তৈরি
+(Add, Edit, Delete অপশন)
+15.	Form Validation
+(যেমন: ইনপুট সঠিক ফরম্যাটে আছে কিনা)
+16.	Local Storage ব্যবহার
+(ডেটা সংরক্ষণ এবং লোড করা)
+17.	Image Gallery তৈরি
+(ডায়নামিক ইমেজ যোগ)
+18.	Counter তৈরি
+(ক্লিক করলে সংখ্যা বাড়বে/কমবে)
+19.	Tab Navigation
+(একাধিক ট্যাব তৈরি এবং কন্টেন্ট দেখানো)
+20.	Sort এবং Filter
+(লিস্ট ডেটা সাজানো এবং ফিল্টার করা)
+________________________________________
+অ্যাডভান্সড সেশন (২১-৩০): পূর্ণাঙ্গ ওয়েব ফিচার
+21.	API থেকে ডেটা ফেচ করা
+(fetch() ব্যবহার)
+22.	Search Bar তৈরি
+(ডায়নামিক সার্চ রেজাল্ট)
+23.	Accordion তৈরি
+(ক্লিক করলে ডেটা শো/হাইড)
+24.	Drag and Drop শেখা
+(এলিমেন্ট ড্র্যাগ করা)
+25.	Slider তৈরি
+(ছবি বা কন্টেন্ট স্লাইড করা)
+26.	Dynamic Progress Bar
+(লোডিং স্টেট দেখানো)
+27.	Pagination
+(বড় ডেটা লিস্ট ভাগ করা)
+28.	Chat Interface তৈরি
+(চ্যাট UI ডায়নামিক তৈরি)
+29.	Dark Mode Toggle
+(ডার্ক এবং লাইট মোড)
+30.	Mini Project: Dynamic Portfolio
+(আগে শেখা সবকিছু মিলিয়ে)
+
